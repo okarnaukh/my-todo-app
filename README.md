@@ -1,9 +1,20 @@
-# React TypeScript Starter Pack
+# About
 
-To use this template click `Use this template`
+This task manager with API allows you to create tasks, mark completed tasks, edit and delete them.
 
-### Available Scripts
+Technologies that were used
+- JavaScript,
+- React,
+- TypeScript,
+- SCSS.
 
-`Deploy` - available to deploy your application to gh-pages
+## Getting started
 
-`SCSS Preprocessor` - available to write your styles with modern style language
+Node v14.21.3
+
+Run `npm i` and wait until it downloads all the packages and finishes.
+
+Run `npm start` to open the App
+
+
+[DEMO LINK](https://okarnaukh.github.io/my-todo-app/).
