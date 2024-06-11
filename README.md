@@ -1,4 +1,4 @@
-# My todo app
+# Todo app
 
 ## About
 This task manager with API allows you to create tasks, mark completed tasks, edit and delete them.
